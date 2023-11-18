@@ -1,0 +1,8 @@
+Int a, b, sum;
+Float x1, y1, zoom;
+If (a>b) Then sum = a+b
+Else sum = a+10;
+while (a ==b) {
+  zoom = (sum + x1)/10;
+  ch1 = ‘123’;
+}
